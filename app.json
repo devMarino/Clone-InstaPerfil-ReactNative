@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "instaFake",
-    "slug": "instaFake",
+    "name": "Clone-InstagramPerfil",
+    "slug": "Clone-InstagramPerfil",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
